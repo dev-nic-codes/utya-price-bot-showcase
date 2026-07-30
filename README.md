@@ -6,7 +6,7 @@ A Telegram service for UTYA market publishing and resilient multi-destination tr
 
 | | |
 |---|---|
-| Live bot | [UTYA Prices on Telegram](https://t.me/utyapricesbot) |
+| Price channel | [Open @utyaprices](https://t.me/utyaprices) |
 | Audience | UTYA community operators and followers |
 | Role | Designed, implemented, deployed, and maintained by Nic |
 | Status | Active deployment |
